@@ -6,7 +6,7 @@ Still under developemnet
 
 # Preview of the Page
 <blackquote>
-<img src="image_2023-03-30_215906485.png"> </img></blackquote>
+<img src="https://github.com/MangalNathYadav/Portofolio_MGHacker/blob/main/image_2023-03-30_222125697.png"> </img></blackquote>
 
 # completed tasks
 1- Home page <br>
