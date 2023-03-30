@@ -1,7 +1,7 @@
 # Portofolio-MGHacker
-MY Portofolio website.
-First project for practicing CSS
-View site - https://mghacker.netlify.app
+MY Portofolio website. <br>
+First project for practicing CSS  <br>
+View site - https://mghacker.netlify.app  <br>
 Still under developemnet
 
 # Preview of the Page
@@ -9,17 +9,17 @@ Still under developemnet
 <img src="image_2023-03-30_215906485.png"> </img></blackquote>
 
 # completed tasks
-1- Home page
-2- Header 
-3- Footer
-4- layout 
-5- color combinations
-6- home graphics using css
+1- Home page <br>
+2- Header  <br>
+3- Footer <br>
+4- layout  <br>
+5- color combinations  <br>
+6- home graphics using css  <br>
 
 # Remaining tasks
-1 - About page
-2- Contact page 
-3- profile page
-4- projects page 
-5- Make responsive using media quries for android
+1 - About page <br>
+2- Contact page  <br>
+3- profile page <br>
+4- projects page  <br>
+5- Make responsive using media quries for android <br>
 6- Make the code more readable using comments
