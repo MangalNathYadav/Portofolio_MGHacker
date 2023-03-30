@@ -1,6 +1,7 @@
 # Portofolio-MGHacker
 MY Portofolio website.
 First project for practicing CSS
+View site - https://mghacker.netlify.app
 
 # Preview of the Page
 <blackquote>
